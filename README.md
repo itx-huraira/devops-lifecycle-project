@@ -1,4 +1,3 @@
-# devops-lifecycle-project
 # 🌐 DevOps Lifecycle Project
 
 A full DevOps lifecycle project with infrastructure automation, CI/CD pipelines, monitoring, logging, and rollback strategies.
